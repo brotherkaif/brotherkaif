@@ -8,3 +8,5 @@ I'm a backend developer based in Glasgow and currently building things for [Tray
   - 💼 [LinkedIn](https://www.linkedin.com/in/kaifahmed)
   - 🌐 [Homepage](https://kaif.dev)
   - 📃 [CV](https://drive.google.com/file/d/15OgGIqMpjheJutQESpkQTouDkFmnumTs/view?usp=sharing)
+
+[![Kaif's github stats](https://github-readme-stats.vercel.app/api?username=brotherkaif&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
