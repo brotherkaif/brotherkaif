@@ -7,6 +7,6 @@ I'm a software engineer based in Glasgow and currently building things for [Tray
 - 💡 Find out more:
   - 💼 [LinkedIn](https://www.linkedin.com/in/kaifahmed)
   - 🌐 [Homepage](https://kaif.dev)
-  - 📃 [CV](https://drive.google.com/file/d/15OgGIqMpjheJutQESpkQTouDkFmnumTs/view?usp=sharing)
+  - 📃 [CV](https://drive.google.com/file/d/1uWxmG_S1OhHdV6FfcGGcbM5mF10hKjZm/view?usp=sharing)
 
 [![Kaif's github stats](https://github-readme-stats.vercel.app/api?username=brotherkaif&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
