@@ -1,5 +1,5 @@
 ### Hi there, I'm Kaif
-I'm a software engineer based in Glasgow and currently building things for [Tray.io](https://tray.io).
+I'm a software engineer based in Glasgow and currently between jobs.
 
 - ⚡ I'm a huge fan of Linux, cloud platforms, open source and efforts to improve accessibility.
 - 🔧 I'm always tweaking my [configuration and dotfiles](https://github.com/brotherkaif/config).
