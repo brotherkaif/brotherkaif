@@ -1,9 +1,9 @@
 ### Hi there, I'm Kaif
-I'm a software engineer based in Glasgow and currently between jobs.
+I'm a software engineer working on backend systems for [BBC Sounds](https://bbc.co.uk/sounds).
 
-- ⚡ I'm a huge fan of Linux, cloud platforms, open source and efforts to improve accessibility.
-- 🔧 I'm always tweaking my [configuration and dotfiles](https://github.com/brotherkaif/config).
-- 🌱 I'm interested in dipping my toes into game development as a hobby and have been experimenting with [Godot](https://godotengine.org/).
+- ⚡ I'm an advocate of open source development and open standards.
+- 🔧 I'm endlessly tweaking my [configuration and dotfiles](https://github.com/brotherkaif/dotfiles).
+- 🌱 I'm always keen to learn new technologies and expand my knowledge.
 - 💡 Find out more:
   - 💼 [LinkedIn](https://www.linkedin.com/in/kaifahmed)
   - 🌐 [Homepage](https://kaif.dev)
