@@ -9,4 +9,4 @@ I'm a software engineer working on backend systems for [BBC Sounds](https://bbc.
   - 🌐 [Homepage](https://kaif.dev)
   - 📃 [CV](https://drive.google.com/file/d/1uWxmG_S1OhHdV6FfcGGcbM5mF10hKjZm/view?usp=sharing)
 
-[![Kaif's github stats](https://github-readme-stats.vercel.app/api?username=brotherkaif&count_private=true&show_icons=true&theme=github_dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Kaif's github stats](https://github-readme-stats.vercel.app/api?username=brotherkaif&count_private=true&show_icons=true&theme=transparent&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
